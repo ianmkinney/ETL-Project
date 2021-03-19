@@ -12,5 +12,5 @@ For transformation, we will target the matching location data in each dataset, a
 
 ### Load
 
-For loading, we plan to use a mongo DB database so we can store JSON, as that is the common output format of our APIs. We will use one table that will have information
+For loading, we plan to use a mongo DB database so we can store JSON, as that is the common output format of our APIs. We will store the weather data and real estate data in 2 seperate tables, with the intention of being joined in analysis on common columns. 
 
