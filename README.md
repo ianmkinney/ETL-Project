@@ -10,7 +10,7 @@ For this project, we extracted data from Realtor API and OpenWeatherMap API. Thi
 
     https://rapidapi.com/apidojo/api/realtor
 
-![Rapid API Screenshot](https://github.com/ianmkinney/ETL-Project/blob/load/RapidAPI.PNG?raw=true)
+![Rapid API Screenshot](images/RapidAPI.PNG)
 
 
     Rapid API was used to provide pre-written access code snippets to make it easier to get started!
@@ -19,7 +19,7 @@ For this project, we extracted data from Realtor API and OpenWeatherMap API. Thi
 
     https://openweathermap.org/current
 
-![Rapid API Screenshot](https://github.com/ianmkinney/ETL-Project/blob/load/OpenWeather.PNG?raw=true)
+![Rapid API Screenshot](images/OpenWeather.PNG)
 
     For the weather data, we used Open Weather Map API. 
 
