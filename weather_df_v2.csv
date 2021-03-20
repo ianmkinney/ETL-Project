@@ -1,0 +1,11 @@
+,zip,coord_lon,coord_lat,weather,weather_description,temp,temp_min,temp_max,pressure,humidity,wind_speed,city
+0,80911,-104.7223,38.7457,Clouds,scattered clouds,278.81,275.15,283.15,1018,56,3.09,Colorado Springs
+1,43068,-82.8035,39.9551,Clear,clear sky,279.72,278.15,280.93,1035,31,4.12,Reynoldsburg
+2,14617,-77.5994,43.2203,Clouds,few clouds,280.4,279.26,281.48,1036,34,5.14,Rochester
+3,02176,-71.0632,42.4581,Clear,clear sky,280.7,279.82,281.48,1031,29,3.6,Melrose
+4,04106,-70.2709,43.6318,Clear,clear sky,280.3,279.26,281.48,1030,31,2.06,South Portland
+5,66614,-95.7469,39.0154,Clear,clear sky,279.92,279.26,280.37,1028,57,6.17,Topeka
+6,46804,-85.256,41.0508,Clear,clear sky,277.78,277.15,278.15,1036,48,3.09,Fort Wayne
+7,01602,-71.8417,42.2703,Clear,clear sky,279.06,278.15,280.93,1031,30,5.66,Worcester
+8,22152,-77.2337,38.7757,Clear,clear sky,280.16,279.15,281.48,1037,31,2.06,Springfield
+9,27604,-78.5799,35.8334,Clouds,broken clouds,279.62,278.15,280.93,1033,56,5.71,Raleigh
